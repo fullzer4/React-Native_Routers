@@ -1,7 +1,7 @@
 import { View,Text,Pressable,StyleSheet } from "react-native"
 import Titulo from "../components/titulo"
 
-const TelaA = () => {
+const telaA = () => {
     return(
         <View>  
             <Titulo/>
@@ -13,4 +13,4 @@ const styles = StyleSheet.create({
 
 })
 
-export default TelaA
+export default telaA
