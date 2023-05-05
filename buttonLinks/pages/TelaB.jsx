@@ -1,6 +1,6 @@
-import { View } from "react-native"
+import { View,Text,Pressable,StyleSheet } from "react-native"
 
-const telaC = () => {
+const TelaB= () => {
     return(
         <View style={styles.container}>
             <Titulo/>
@@ -22,4 +22,4 @@ const styles = StyleSheet.create({
     }
 })
 
-export default telaC
+export default TelaB
