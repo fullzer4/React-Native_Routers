@@ -1,6 +1,6 @@
 import { View } from "react-native"
 
-const titulo = () => {
+const Titulo = () => {
     return(
         <View>
 
@@ -12,4 +12,4 @@ const styles = StyleSheet.create({
     
 })
 
-export default titulo
+export default Titulo

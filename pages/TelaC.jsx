@@ -3,7 +3,7 @@ import { View } from "react-native"
 const telaC = () => {
     return(
         <View>
-
+            <Titulo/>
         </View>
     )
 }
