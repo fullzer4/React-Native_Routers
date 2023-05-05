@@ -41,3 +41,39 @@ Contribuidores:
 <a href=""> Typescript example: </a>
 <br/>
 <a href=""> Javascript example: </a>
+
+## Material bottom tabs navegation
+
+### React-navigation
+
+<a href=""> Documention: </a>
+<br/>
+<a href=""> Typescript example: </a>
+<br/>
+<a href=""> Javascript example: </a>
+
+### Expo-router
+
+<a href=""> Documention: </a>
+<br/>
+<a href=""> Typescript example: </a>
+<br/>
+<a href=""> Javascript example: </a>
+
+## Material top tabs navegation
+
+### React-navigation
+
+<a href=""> Documention: </a>
+<br/>
+<a href=""> Typescript example: </a>
+<br/>
+<a href=""> Javascript example: </a>
+
+### Expo-router
+
+<a href=""> Documention: </a>
+<br/>
+<a href=""> Typescript example: </a>
+<br/>
+<a href=""> Javascript example: </a>
