@@ -1,4 +1,4 @@
-import { View } from "react-native"
+import { View,Text,Pressable,StyleSheet } from "react-native"
 import Titulo from "../components/titulo"
 
 const telaA = () => {
