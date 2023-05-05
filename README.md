@@ -20,9 +20,9 @@ Contribuidores:
 
 <a href=""> Documention: </a>
 <br/>
-<a href="https://github.com/fullzer4/React-Native_Routers/expo-router/ButtonLinks/typescript"> Typescript example: </a>
+<a href="https://github.com/fullzer4/React-Native_Routers/tree/main/expo-router/ButtonLinks/typescript"> Typescript example: </a>
 <br/>
-<a href="https://github.com/fullzer4/React-Native_Routers/expo-router/ButtonLinks/javascript"> Javascript example: </a>
+<a href="https://github.com/fullzer4/React-Native_Routers/tree/main/expo-router/ButtonLinks/javascript"> Javascript example: </a>
 
 ## Draw
 
