@@ -6,6 +6,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-navigation/drawer": "^6.6.2",
     "expo": "^48.0.7",
     "expo-constants": "~14.2.1",
     "expo-linking": "~4.0.1",
@@ -23,7 +24,11 @@
   },
   "devDependencies": {
     "@babel/core": "^7.19.3",
-    "@babel/plugin-proposal-export-namespace-from": "^7.18.9"
+    "@babel/plugin-proposal-export-namespace-from": "^7.18.9",
+    "@types/react": "^18.2.5",
+    "@types/react-native": "^0.71.6",
+    "react-native-typescript-transformer": "^1.2.13",
+    "typescript": "^5.0.4"
   },
   "resolutions": {
     "metro": "^0.73.7",
