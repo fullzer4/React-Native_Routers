@@ -11,11 +11,13 @@ Contribuidores:
 ### React-navigation
 
 <a href=""> Typescript example: </a>
+<br/>
 <a href=""> Javascript example: </a>
 
 ### Expo-router
 
 <a href=""> Typescript example: </a>
+<br/>
 <a href=""> Javascript example: </a>
 
 ## Draw
@@ -23,9 +25,11 @@ Contribuidores:
 ### React-navigation
 
 <a href=""> Typescript example: </a>
+<br/>
 <a href=""> Javascript example: </a>
 
 ### Expo-router
 
 <a href=""> Typescript example: </a>
+<br/>
 <a href=""> Javascript example: </a>
