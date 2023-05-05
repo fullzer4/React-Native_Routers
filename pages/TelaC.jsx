@@ -1,6 +1,6 @@
 import { View } from "react-native"
 
-const telaC = () => {
+const TelaC = () => {
     return(
         <View>
             <Titulo/>
@@ -12,4 +12,4 @@ const styles = StyleSheet.create({
     
 })
 
-export default telaC
+export default TelaC
