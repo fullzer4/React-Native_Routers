@@ -1,12 +1,29 @@
-import { View,Text,Pressable,StyleSheet } from "react-native"
+import { View,Text,Pressable,StyleSheet, Button } from "react-native"
+import Titulo from "../components/titulo"
+import { NavigationContainer } from '@react-navigation/native';
+import { createNavigationContainerRef } from "@react-navigation/native";
+import { createStackNavigator } from '@react-navigation/stack';
 
-const TelaB= () => {
+const TelaB= (navigation) => {
+    const TelaA = () => {
+        navigation.navigate("TelaA")
+    }
+
+    const TelaC = () => {
+    navigation.navigate("TelaC")
+    }  
+    
     return(
         <View style={styles.container}>
             <Titulo/>
-            <View style={styles.footer}>
-           
-            </View>
+            <Button 
+                title="Tela Anterior"
+                onPress={() => TelaA()}
+            />
+            <Button 
+                title="Próxima Tela"
+                onPress={() => TelaC()}
+            />
         </View>
     )
 }
