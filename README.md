@@ -66,7 +66,7 @@ Draw navigation é um tipo de navegação em que o usuário pode abrir um menu l
 
 ## Material top tabs navegation
 
-É uma opção popular para criar uma navegação intuitiva e organizada em aplicativos móveis, permitindo que os usuários acessem facilmente diferentes seções do aplicativo por meio de uma barra de guias na parte topo da tela. 
+É uma opção popular para criar uma navegação intuitiva e organizada em aplicativos móveis, permitindo que os usuários acessem facilmente diferentes seções do aplicativo por meio de uma barra de guias na parte do topo da tela. 
 
 ### React-navigation
 
